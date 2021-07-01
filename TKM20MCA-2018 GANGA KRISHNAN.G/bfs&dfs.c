@@ -23,15 +23,7 @@ scanf("%d",&a[i][j]);
 }
 printf("\n");
 }
-/*printf("THE ADJACENCY MATRIX IS\n");
-for(i=1;i<=n;i++) 
-{
-for(j=1;j<=n;j++)
-{
-printf(" %d",a[i][j]);
-}
-printf("\n");
-}*/
+
 
 do
 {
